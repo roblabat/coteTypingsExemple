@@ -1,0 +1,27 @@
+{
+  "name": "cotetypingsexemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roblabat/coteTypingsExemple.git"
+  },
+  "author": "Labat Robin <https://github.com/roblabat>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roblabat/coteTypingsExemple/issues"
+  },
+  "homepage": "https://github.com/roblabat/coteTypingsExemple#readme",
+  "dependencies": {
+    "cote": "^0.17.1"
+  },
+  "devDependencies": {
+    "@types/cote": "^0.14.3",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
